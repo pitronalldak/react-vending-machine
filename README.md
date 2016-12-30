@@ -9,7 +9,7 @@
 
 ## App installation
 
-$ `npm install (use GitBash on Windows / Terminal on OSX) in the directory of the project. Accept all requests. If error occurs, run again.
+$ `npm install` (use GitBash on Windows / Terminal on OSX) in the directory of the project. Accept all requests. If error occurs, run again.
 
 
 ## Building the app
@@ -29,9 +29,13 @@ $ `npm start` (use GitBash on Windows / Terminal on OSX) in the directory of the
 ## Main features:
 
 You can:
-    - Upload products, customize title, price and amount.
+
+- Upload products, customize title, price and amount.
 
 User can:
-    - Insert money.
-    - Select product.
-    - Return delivery.
+
+- Insert money.
+
+- Select product.
+
+- Return delivery.

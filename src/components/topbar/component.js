@@ -25,7 +25,7 @@ class TopBarComponent extends Component {
 }
 
 TopBarComponent.PropTypes = {
-    children: PropTypes.element.isRequired
+    handleUploadLink: PropTypes.func.isRequired
 };
 
 const mapDispatchToProps = (dispatch) => (bindActionCreators(new Actions,dispatch));

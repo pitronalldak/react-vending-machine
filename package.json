@@ -1,7 +1,7 @@
 {
-  "name": "task-test",
+  "name": "test-task",
   "version": "1.0.0",
-  "description": "Task test",
+  "description": "test task",
   "author": "Petr Ryabinn",
   "engines": {
     "node": "6.0.0"
@@ -30,6 +30,7 @@
     "eslint-plugin-import": "^1.14.0",
     "eslint-plugin-jsx-a11y": "^2.2.1",
     "eslint-plugin-react": "^6.2.0",
+    "fast-async": "^6.0.32",
     "html-webpack-plugin": "^2.22.0",
     "pipe-error-stop": "0.0.9",
     "react": "^15.4.0",
@@ -38,6 +39,7 @@
     "react-hot-loader": "^3.0.0-beta.3",
     "react-redux": "^4.4.5",
     "redux": "^3.5.2",
+    "redux-thunk": "^2.1.0",
     "style-loader": "^0.13.1",
     "stylelint": "^4.1.0",
     "webpack": "^1.13.2",

@@ -29,10 +29,6 @@ module.exports = {
       {
         test: /\.css$/,
         loaders: ['style', 'css']
-      },
-      {
-        test: /\.jpe?g$|\.gif$|\.png$|\.ico|\.svg(\?v\=.*)?$|\.woff(\?v\=.*)?$|\.ttf(\?v\=.*)?$|\.eot(\?v\=.*)?$|\.woff?2(\?v\=.*)?/, // eslint-disable-line max-len
-        loader: 'file-loader?name=[path][name].[ext]'
       }]
   }
 };

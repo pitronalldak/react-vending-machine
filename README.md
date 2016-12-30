@@ -6,8 +6,6 @@
 
 2. Windows only - [GitBash](http://git-scm.com/downloads) (used instead of cmd)
 
-3. Windows only - [GraphicsMagick](http://sourceforge.net/projects/graphicsmagick/files/graphicsmagick-binaries/1.3.21/)
-
 
 ## App installation
 
@@ -28,3 +26,12 @@ This should be used every time when you start working on the project:
 $ `npm start` (use GitBash on Windows / Terminal on OSX) in the directory of the project
 
 
+## Main features:
+
+You can:
+    - Upload products, customize title, price and amount.
+
+User can:
+    - Insert money.
+    - Select product.
+    - Return delivery.
